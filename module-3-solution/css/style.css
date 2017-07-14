@@ -1,0 +1,51 @@
+/*header start*/
+#header-nav {
+	background-color: grey;
+	border-radius: 0;
+	border: 0;
+}
+.navbar-brand {
+	margin-bottom: 10px;
+}
+.navbar-brand h1 {
+	margin-top: -5px;
+	color: #000;
+}
+.navbar-brand a:hover, .navbar-brand:focus {
+	text-decoration: none;
+}
+.icon-bar {
+	border: 1px solid black;
+}
+#collapsable-nav {
+	padding: 0px;
+}
+#nav-list li a {
+	color: #000;
+	font-size: 1.5em;
+}
+#nav-list hr {
+	margin: 7.5px 0px;
+}
+.collapse li:hover {
+	background-color: #9acd32;
+}
+/*End of header*/
+
+/*Main Content*/
+#homepage h2 {
+	margin-bottom: 20px;
+}
+#main-content {
+	width: 100%;
+}
+.row {
+	margin: auto;
+}
+#chicken-content, #beef-content, #sushi-content {
+	background-color: rgb(211,211,211);
+	border: 2px solid black;
+	padding: 5px;
+	margin-bottom: 30px;
+	height: 750px;
+}
