@@ -17,6 +17,9 @@
 .icon-bar {
 	border: 1px solid black;
 }
+.navbar-nav {
+	margin: 0px;
+}
 #collapsable-nav {
 	padding: 0px;
 }
@@ -25,7 +28,7 @@
 	font-size: 1.5em;
 }
 #nav-list hr {
-	margin: 7.5px 0px;
+	margin: 0px;
 }
 .collapse li:hover {
 	background-color: #9acd32;
