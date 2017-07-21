@@ -4,6 +4,10 @@
 	border-radius: 0;
 	border: 0;
 }
+.container {
+	margin-left: 0px;
+	padding-left: 0px;
+}
 .navbar-brand {
 	margin-bottom: 10px;
 }
